@@ -17,7 +17,7 @@ public class Intro {
         /*
         Multiple line comment
         */
-        System.out.println("Text with a qoute \"quote\");
+        System.out.println("Text with a qoute \"quote\"");
         System.out.println("The project is in C:\\Users");
         System.out.println("Text with blank space:  and other text after");
         System.out.println("Text ist text \n on \n multiple \n lines");
